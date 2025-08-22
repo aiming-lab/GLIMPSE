@@ -163,4 +163,5 @@ If you find our benchmark useful in your research, please kindly consider citing
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2507.09491}, 
 }
+
 ```
